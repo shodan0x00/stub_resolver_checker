@@ -1,0 +1,23 @@
+{
+  "name": "stub_resolver_checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "yargs": "^14.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shodan0x00/stub_resolver_checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shodan0x00/stub_resolver_checker/issues"
+  },
+  "homepage": "https://github.com/shodan0x00/stub_resolver_checker#readme"
+}
