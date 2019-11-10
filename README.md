@@ -5,7 +5,7 @@ Example
 
 ./node main <path_to_resolvers> [ domain (default google.com) ]
 
-This program sends 'A' query to each domain. If get andswer add this resolver to good.txt. If error this resolver will go to bad.txt
+This program sends 'A' query to from each resolver to verify if this resolver is worked. If got answer add this resolver to good.txt. If error this resolver will go to bad.txt
 
 Folder contain:
 
